@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0387-first-unique-character-in-a-string) |
