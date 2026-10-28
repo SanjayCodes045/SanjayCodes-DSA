@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
