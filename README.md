@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0704-binary-search) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
