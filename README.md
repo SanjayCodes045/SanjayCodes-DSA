@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0162-find-peak-element) |
+| [0216-combination-sum-iii](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0216-combination-sum-iii) |
 | [0704-binary-search](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
