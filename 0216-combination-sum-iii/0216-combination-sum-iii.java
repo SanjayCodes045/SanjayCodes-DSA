@@ -11,9 +11,6 @@ class Solution {
         solve(candidates,target-candidates[i],ans,output,i+1,k,count+1);
 
         output.remove(output.size()-1);
-        // while(i+1 < candidates.length && candidates[i] == candidates[i+1]){
-        //     i++;
-        // }
         solve(candidates,target,ans,output,i+1,k,count);
 
     }
