@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0055-jump-game) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0090-subsets-ii) |
@@ -130,5 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
