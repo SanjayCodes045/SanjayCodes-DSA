@@ -22,11 +22,11 @@ public class Solution {
         //     if(fast == slow) return true;
         // }
         // return false;
-        HashMap<ListNode, Boolean> map = new HashMap<>();
+        HashSet<ListNode> map = new HashSet<>();
         ListNode temp = head;
         while(temp != null){
-            if(map.containsKey(temp)) return true;
-            map.put(temp,true);
+            if(map.contains(temp)) return true;
+            map.add(temp);
             temp = temp.next;
         }
         return false;
