@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0344-reverse-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -151,7 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
