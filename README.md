@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -148,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/SanjayCodes045/SanjayCodes-DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
